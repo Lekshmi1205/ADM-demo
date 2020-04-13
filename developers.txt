@@ -112,8 +112,8 @@ Group_15	Name				github username
 
 Member 1:KEERTHI R
 Member 2:LEKSHMI MOHAN
-Member 3:LITHIYA THOMAS
 
+Member 3:LithiyaThomas 
 Group_16	Name				github username
 --------------------------------------------------------------------
 
